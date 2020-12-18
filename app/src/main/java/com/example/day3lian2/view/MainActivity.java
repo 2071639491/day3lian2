@@ -19,7 +19,7 @@ import java.util.ArrayList;
 public class MainActivity extends BaseActivity<MianPresenter> implements MainContract.IMainView {
 
     //开始分
-
+    //分了
     private RecyclerView mRlv;
     private ArrayList<MainBean.StudenlistBean> list;
     private MainAdapter adapter;
